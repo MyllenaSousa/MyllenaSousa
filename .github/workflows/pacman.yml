@@ -1,0 +1,23 @@
+name: generate pacman
+
+on:
+  schedule:
+    # roda todo dia às 00:00 UTC
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: generate pacman graph
+        uses: abozanona/pacman-contribution-graph@master
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
