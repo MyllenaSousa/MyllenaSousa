@@ -18,7 +18,7 @@
 
 Me chamo **Myllena Assunção**, tenho 20 anos, sou natural de Brasília e estudante de **Análise e Desenvolvimento de Sistemas** na PUC-GO.
 
-Apaixonada por tecnologia, tenho foco no ecossistema **Java** e no desenvolvimento web com **React** e **JavaScript**, aplicando os princípios da programação orientada a objetos. Meu raciocínio lógico e minha visão analítica foram consolidados na atuação em suporte de infraestrutura de T.I., onde aprendi a resolver problemas com eficiência. Tenho **inglês avançado**, o que me permite acompanhar documentações técnicas e me manter sempre atualizada. 🚀
+Apaixonada por tecnologia, tenho foco no ecossistema **Java** e no desenvolvimento web com **React** e **JavaScript**, aplicando os princípios da programação orientada a objetos. Meu raciocínio lógico e minha visão analítica foram consolidados na atuação em suporte de infraestrutura de T.I., onde aprendi a resolver problemas com eficiência. Tenho **inglês avançado**, o que me permite acompanhar documentações técnicas e me manter sempre atualizada. 
 
 ---
 
