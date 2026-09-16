@@ -60,16 +60,18 @@ Apaixonada por tecnologia, tenho foco no ecossistema **Java** e no desenvolvimen
 ## 🕹️ Minhas contribuições
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MyllenaSousa/MyllenaSousa/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MyllenaSousa/MyllenaSousa/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MyllenaSousa/MyllenaSousa/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
-
----
-
-<div align="left">
-
-![Profile Views](https://komarev.com/ghpvc/?username=MyllenaSousa&color=3BB143&style=for-the-badge)
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/MyllenaSousa/MyllenaSousa/output/pacman-contribution-graph-dark.svg"
+  >
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/MyllenaSousa/MyllenaSousa/output/pacman-contribution-graph.svg"
+  >
+  <img
+    alt="Pacman contribution graph"
+    src="https://raw.githubusercontent.com/MyllenaSousa/MyllenaSousa/output/pacman-contribution-graph.svg"
+  >
 
 </div>
 
